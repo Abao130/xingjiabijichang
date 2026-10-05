@@ -506,7 +506,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 <span id="wugui"></span>
 ### 10. 乌龟加速
-**官网入口**：[乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt)   
+**官网入口**：[乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjsq.monster/?code=NRNEFEMt)   
 **优惠码**：`ABING888`（全场 8 折）
 
 **机场信息**
