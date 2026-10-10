@@ -88,7 +88,7 @@
 
 <span id="hongxingyun"></span>
 ### 1. 红杏云
-**官网入口**：[红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH)   
+**官网入口**：[红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hxlove26s.cc/web/#/login?code=bUIxQadH)   
 **优惠码**：`ABING888`（全场 8 折）
 
 **机场信息**
