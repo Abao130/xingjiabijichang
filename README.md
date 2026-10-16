@@ -232,7 +232,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="mitce"></span>
-### 2. Mitce
+### 2. Mitce（暂时不太好用，等官方通知恢复了再买）
 **官网入口**：[Mitce官网](https://go.clashshome.com/mitcejc)，[备用地址](https://mitce.net/aff.php?aff=33445)   
 **优惠码**：`SAKURA2026`（日本优化线路套餐锁定终身 8 折）
 
