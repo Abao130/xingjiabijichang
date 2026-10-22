@@ -50,7 +50,7 @@
 | 🥇 | [红杏云](https://go.clashshome.com/hongxingyun) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hxlove25s.cc/web/#/login?code=bUIxQadH) |
 | 🥇 | [特朗普云](https://go.clashshome.com/trumpyun) | ¥15.00 / 月 | 中转+IEPL专线 | 全球流媒体+AI解锁 | [备用地址](https://trumpyun.xyz/#/register?code=ZnngCcmM) |
 | 🥇 | [快雷GO](https://go.clashshome.com/kuaileigo) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=n5YVQYr2) |
-| 4 | [飞喵云](https://go.clashshome.com/feimiaoyun) | ¥9.88 / 月 | BGP + CN2；另有不限时包与住宅家宽定制 | — | [备用地址](https://www.fmyun.top/#/register?code=OUslHthj) |
+| 4 | [飞喵云](https://go.clashshome.com/feimiaoyun) | ¥9.88 / 月 | BGP + CN2；另有不限时包与住宅家宽定制 | 全平台解锁 | [备用地址](https://www.fmyun.top/#/register?code=OUslHthj) |
 
 ### 📋 其他机场（按月付价格排列）
 
