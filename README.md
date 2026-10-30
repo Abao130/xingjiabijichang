@@ -22,7 +22,6 @@
   - [1. 红杏云](#hongxingyun)
   - [2. 特朗普云](#trumpyun)
   - [3. 快雷GO](#kuaileigo)
-  - [4. 飞喵云](#feimiaoyun)
 - [其他性价比机场（按月付价格排列）](#others)
   - [1. 飞鸟云](#feiniaoyun)
   - [2. Mitce](#mitce)
@@ -50,7 +49,6 @@
 | 🥇 | [红杏云](https://go.clashshome.com/hongxingyun) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hxlove25s.cc/web/#/login?code=bUIxQadH) |
 | 🥇 | [特朗普云](https://go.clashshome.com/trumpyun) | ¥15.00 / 月 | 中转+IEPL专线 | 全球流媒体+AI解锁 | [备用地址](https://trumpyun.xyz/#/register?code=ZnngCcmM) |
 | 🥇 | [快雷GO](https://go.clashshome.com/kuaileigo) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=n5YVQYr2) |
-| 4 | [飞喵云](https://go.clashshome.com/feimiaoyun) | ¥9.88 / 月 | BGP + CN2；另有不限时包与住宅家宽定制 | 全平台解锁 | [备用地址](https://www.fmyun.top/#/register?code=OUslHthj) |
 
 ### 📋 其他机场（按月付价格排列）
 
@@ -194,52 +192,6 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 - 工作室/团队：¥295/月（3000GB，100台设备）
 - 不限时 300G：¥139/一次性
 - 不限时 1000G：¥269/一次性
-
----
-
-<span id="feimiaoyun"></span>
-### 4. 飞喵云 FeiMiao Cloud
-
-**官网入口**：[飞喵云官网](https://go.clashshome.com/feimiaoyun)，[备用地址](https://www.fmyun.top/#/register?code=OUslHthj)  
-**优惠码**：暂时无优惠码
-
-**机场信息**
-
-- 开业时间：2023 年
-- 节点地区：香港、台湾、日本、韩国、新加坡、泰国、越南、美国、英国、德国、法国、荷兰、土耳其、澳大利亚
-- 节点数量：40+
-- 协议：VLESS / AnyTLS
-- 线路类型：BGP + CN2；独享住宅家宽双ISP需另行定制
-- 设备限制：常规套餐不限设备数量，定制套餐按方案约定
-- 付款方式：支付宝 / 微信
-- 客户端：提供官方客户端与订阅导入，覆盖 iOS / Android / macOS / Windows / Linux / OpenWrt
-
-**优势**：
-
-- 9.88元月付包含100GB，入门支出较低，适合轻度使用。
-- 不限时流量包25元起，偶尔使用也不必每月续费。
-- 支持Netflix、Disney+等流媒体解锁，常规套餐不限设备数量。
-- 官方客户端和第三方订阅均可选择，方便新手及已有常用软件的用户。
-
-**缺点**：
-
-- 不支持免费试用，也不支持退款。
-- 独享住宅家宽不包含在普通套餐中，需要另付费定制，100元/月起。
-
-**推荐理由**：
-
-飞喵云的性价比主要体现在低门槛月付、灵活的不限时包，以及两种客户端使用方式。日常使用可以先选9.88元100GB月付；只是留作备用，25元100GB或45元200GB不限时包更方便。经常下载或看视频，再按实际用量选择更大的月付额度。更多节点和选购细节可看[飞喵云完整测评](https://jichangclub.com/feimiaoyun-review/)。
-
-**套餐一览**：
-
-- 一口喵粮：¥9.88/月（每30天100GB）
-- 小份喵粮：¥18/月（每30天200GB）
-- 中份猫粮：¥39/月（每30天500GB）
-- 大份猫粮：¥58/月（每30天1000GB）
-- 特大份猫粮：¥99/月（每30天2000GB）
-- 不限时100G：¥25/一次性（总计100GB）
-- 不限时200G：¥45/一次性（总计200GB）
-- 独享定制：¥100/月起（住宅家宽双ISP，按地区和配置报价）
 
 ---
 
@@ -599,7 +551,6 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 <span id="update"></span>
 ## 📌 更新记录
-- 2026-10-22：新增[飞喵云](#feimiaoyun)，列入“性价比最高推荐”第四位，同步更新目录与排名表。
 - 2026-07-20：更新机场
 - 2026-07-02：更新节点
 - 2026-05-29：将[特朗普云 TrumpYun](#trumpyun)调整至"性价比最高推荐"分类，位列红杏云之后
